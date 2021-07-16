@@ -38,3 +38,5 @@
 <a href="https://www.facebook.com/lucas.damas.35" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/lucasdcorreabr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
+
+![Snake animation](https://github.com/lucasdcorrea1/lucasdcorrea1/blob/output/github-contribution-grid-snake.svg)
