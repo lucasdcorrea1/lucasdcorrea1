@@ -5,7 +5,7 @@
 ## 💻 Projects
 * [Data Tongji](https://github.com/Data-Tongji)
 * [I.A.N.S.A WEB](https://github.com/lucasdcorrea1/Iansa-web)
-* [I.A.N.S.A API](https://suyash-srivastava.github.io/suyashsrivastava/Notes)
+* [I.A.N.S.A API](https://github.com/lucasdcorrea1/Iansa-backend)
 * [Be The Hero](https://github.com/lucasdcorrea1/Be-The-Hero)
 
 ##
