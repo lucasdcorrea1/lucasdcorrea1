@@ -10,7 +10,6 @@
 * [Be The Hero](https://github.com/lucasdcorrea1/Be-The-Hero)
    
 
----
    
    
 ## ⚡ Technologies
