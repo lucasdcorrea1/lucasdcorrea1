@@ -1,153 +1,241 @@
-<!-- PROFILE README: Lucas Damas Corrêa | PT-BR -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    LUCAS DAMAS CORRÊA — PROFILE README                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,100:06B6D4&amp;height=200&amp;section=header&amp;text=Lucas%20Damas%20Corrêa&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Back-end%20%26%20Full-Stack%20Engineer&amp;descSize=16&amp;descColor=ffffff&amp;descAlignY=55"/>
 
 <div align="center">
 
-  <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="gif acenando" style="vertical-align: middle; margin-right: 8px;"/>Olá, devs! Eu sou o Lucas Damas Corrêa</h1>
+  <!-- MASCOT -->
+  <img src="./assets/mascot.png" width="280" alt="Mascot — Ancient meets Future"/>
 
-  <p>
-    <em>Back‑end & Full‑stack • .NET, Node, Go, React, Angular • Docker & K8s • Dados e APIs</em>
-  </p>
+  <br/><br/>
 
-  <a href="mailto:lucas.dcorrea1@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-lucas.dcorrea1@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- TYPING SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=620&amp;height=70&amp;lines=%F0%9F%94%A5+.NET+%7C+Node.js+%7C+Go+%7C+React+%7C+Angular;%E2%9A%A1+Clean+Architecture+%26+Distributed+Systems;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Whodo+Digital+Solutions" alt="Typing SVG"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- PROFILE BADGES -->
+  <a href="https://github.com/lucasdcorrea1">
+    <img src="https://komarev.com/ghpvc/?username=lucasdcorrea1&amp;style=for-the-badge&amp;color=8B5CF6&amp;label=PROFILE+VIEWS" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/lucasdcorrea1?tab=followers">
+    <img src="https://img.shields.io/github/followers/lucasdcorrea1?style=for-the-badge&amp;color=06B6D4&amp;labelColor=0d1117&amp;logo=github" alt="Followers"/>
+  </a>
+  <a href="https://github.com/lucasdcorrea1?tab=repositories&amp;sort=stargazers">
+    <img src="https://img.shields.io/github/stars/lucasdcorrea1?style=for-the-badge&amp;color=8B5CF6&amp;labelColor=0d1117&amp;logo=github" alt="Stars"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- SOCIAL LINKS -->
+  <a href="https://www.whodo.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/whodo.com.br-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Whodo"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-damas-corr%C3%AAa-882806176/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lucas.dcorrea1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/lucasdcorreabr" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/lucas.damas.35" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/>
   </a>
 
-<br/><br/> <img alt="Lucas coding" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             SOBRE MIM                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"/> Sobre mim
+
+```yaml
+name:       Lucas Damas Corrêa
+role:       Back-end & Full-Stack Engineer
+company:    Founder @ Whodo — Soluções Digitais
+location:   Brasil
+focus:      [ "APIs escaláveis", "Microsserviços", "Clean Architecture", "DDD" ]
+learning:   [ "Event-Driven Architecture", "Kubernetes at scale" ]
+motto:      "Código limpo hoje é velocidade de entrega amanhã."
+```
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                               WHODO                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### Whodo — Meu projeto atual
+
+<table>
+  <tr>
+    <td align="center" width="600">
+      <br/>
+      <a href="https://www.whodo.com.br" target="_blank">
+        <img src="https://img.shields.io/badge/whodo.com.br-Acesse_o_site-8B5CF6?style=for-the-badge&amp;labelColor=0d1117&amp;logo=googlechrome&amp;logoColor=white" alt="Whodo"/>
+      </a>
+      <br/><br/>
+      <strong>Tecnologia sob medida para impulsionar seu negócio.</strong><br/>
+      Desenvolvimento web, APIs robustas, sistemas escaláveis e consultoria tech.<br/>
+      Transformo ideias em soluções digitais personalizadas.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-## ✨ Sobre mim
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            TECH STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-* 👨‍💻 Desenvolvedor focado em **Back‑end** com experiência em **.NET/C#** e **Node.js**.
-* 🧱 Crio **APIs robustas**, **serviços containerizados** e integro com **bancos relacionais e NoSQL**.
-* 🚀 Curto **arquitetura limpa**, testes e **observabilidade**.
-* 📦 No front, trabalho com **React + TypeScript** quando faz sentido para a entrega.
-* 🧭 Experiência também com: **Kubernetes**, **mensageria** e **CI/CD**.
+## 🧰 Tech Stack
 
-> *"Código limpo hoje é velocidade de entrega amanhã."*
+<div align="center">
 
----
+#### ⚙️ Back-end & Infra
 
-## 🧰 Stack principal
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Back‑end**
+#### 🎨 Front-end
 
-<div style="display: inline_block">
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go"/>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"/>
+#### 🗄️ Bancos de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🔧 Ferramentas & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
-**Banco de Dados**
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-<div style="display: inline_block">
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server"/>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           GITHUB STATS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=lucasdcorrea1&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;icon_color=06B6D4&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats"/>
+      </td>
+      <td align="center">
+        <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lucasdcorrea1&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9" alt="Top Langs"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-**Front‑end**
-
-<div style="display: inline_block">
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=lucasdcorrea1&amp;hide_border=true&amp;background=0D1117&amp;ring=A855F7&amp;fire=06B6D4&amp;currStreakLabel=A855F7&amp;sideLabels=c9d1d9&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=555555" alt="Streak"/>
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasdcorrea1&amp;bg_color=0d1117&amp;color=A855F7&amp;line=06B6D4&amp;point=A855F7&amp;area_color=8B5CF6&amp;area=true&amp;hide_border=true&amp;custom_title=Contribui%C3%A7%C3%B5es" width="95%" alt="Activity Graph"/>
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         FEATURED PROJECTS                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Projetos em destaque
 
-<p align="left">
-
-<a href="https://github.com/lucasdcorrea1/Iansa-web">
-  <img height="120" alt="I.A.N.S.A WEB"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdcorrea1&repo=Iansa-web&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/lucasdcorrea1/Iansa-backend">
-  <img height="120" alt="I.A.N.S.A API"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdcorrea1&repo=Iansa-backend&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/lucasdcorrea1/nlw-esports">
-  <img height="120" alt="NLW eSports"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdcorrea1&repo=nlw-esports&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/lucasdcorrea1/Be-The-Hero">
-  <img height="120" alt="Be The Hero"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdcorrea1&repo=Be-The-Hero&theme=radical&hide_border=true"/>
-</a>
-
-</p>
-
-<details>
-<summary><b>Lista rápida</b></summary>
-
-* [NLW eSports](https://github.com/lucasdcorrea1/nlw-esports)
-* [Data Tongji](https://github.com/Data-Tongji)
-* [I.A.N.S.A WEB](https://github.com/lucasdcorrea1/Iansa-web)
-* [I.A.N.S.A API](https://github.com/lucasdcorrea1/Iansa-backend)
-* [Be The Hero](https://github.com/lucasdcorrea1/Be-The-Hero)
-
-</details>
-
----
-
-## 📊 Métricas do GitHub
-
 <div align="center">
-
-<img alt="GitHub Stats" height="155"
-  src="https://github-readme-stats.vercel.app/api?username=lucasdcorrea1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/> <img alt="Top Langs" height="155"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdcorrea1&layout=compact&theme=radical&hide_border=true"/>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/lucasdcorrea1/tron-ares">
+          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&amp;repo=tron-ares&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;icon_color=06B6D4" alt="Tron Ares"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/lucasdcorrea1/tron-legacy-api">
+          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&amp;repo=tron-legacy-api&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;icon_color=06B6D4" alt="Tron Legacy API"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/lucasdcorrea1/tron-legacy-frontend">
+          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&amp;repo=tron-legacy-frontend&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;icon_color=06B6D4" alt="Tron Legacy Frontend"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/lucasdcorrea1/nlw-esports">
+          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&amp;repo=nlw-esports&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;icon_color=06B6D4" alt="NLW eSports"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
-<img alt="GitHub Streak" height="155"
-     src="https://streak-stats.demolab.com?user=lucasdcorrea1&theme=radical&hide_border=true"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          SNAKE ANIMATION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
----
+## 🐍 Contribuições
 
-## 🛠️ Boas práticas e preferências
-
-* Estruturo projetos seguindo **Clean Architecture**/DDD quando aplicável.
-* **CI/CD** e testes automatizados sempre que possível.
-* Observabilidade: logs estruturados, métricas e tracing.
-* Docker para desenvolvimento e deploy; estudo de **Kubernetes** para escala.
-
----
-
-## 📬 Contato
-
-* 💬 Fale comigo sobre oportunidades, colaboração ou ideias.
-* ✉️ **Email:** <a href="mailto:lucas.dcorrea1@gmail.com">[lucas.dcorrea1@gmail.com](mailto:lucas.dcorrea1@gmail.com)</a>
-* 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/lucas-damas-corr%C3%AAa-882806176/" target="_blank">/lucas-damas</a>
-
----
-
-## 🐍 Atividade
-
-<img alt="Snake animation" src="https://github.com/lucasdcorrea1/lucasdcorrea1/blob/output/github-contribution-grid-snake.svg" />
-
----
 <div align="center">
-  <sub>Feito com ❤️ por Lucas Damas Corrêa</sub>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucasdcorrea1/lucasdcorrea1/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              FOOTER                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <sub>Construído com dedicação por <strong>Lucas Damas Corrêa</strong> — <a href="https://www.whodo.com.br">whodo.com.br</a></sub>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,100:06B6D4&amp;height=120&amp;section=footer"/>
