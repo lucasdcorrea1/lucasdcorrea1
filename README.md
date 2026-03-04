@@ -2,7 +2,7 @@
 <!--                    LUCAS DAMAS CORRÊA — PROFILE README                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,100:06B6D4&amp;height=200&amp;section=header&amp;text=Lucas%20Damas%20Corrêa&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Back-end%20%26%20Full-Stack%20Engineer&amp;descSize=16&amp;descColor=ffffff&amp;descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,100:06B6D4&amp;height=200&amp;section=header&amp;text=Lucas%20Damas%20Corrêa&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Back-end%20%7C%20Full-Stack%20Engineer&amp;descSize=16&amp;descColor=ffffff&amp;descAlignY=55"/>
 
 <div align="center">
 
