@@ -2,7 +2,7 @@
 <!--                    LUCAS DAMAS CORRÊA — PROFILE README                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,100:06B6D4&amp;height=200&amp;section=header&amp;text=Lucas%20Damas%20Corrêa&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Back-end%20%7C%20Full-Stack%20Engineer&amp;descSize=16&amp;descColor=ffffff&amp;descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Lucas%20Damas%20Corrêa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Back-end%20Developer%20|%20Software%20Consultant&descSize=16&descColor=ffffff&descAlignY=55"/>
 
 <div align="center">
 
@@ -13,36 +13,36 @@
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=620&amp;height=70&amp;lines=%F0%9F%94%A5+.NET+%7C+Node.js+%7C+Go+%7C+React+%7C+Angular;%E2%9A%A1+Clean+Architecture+%26+Distributed+Systems;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Whodo+Digital+Solutions" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=70&lines=%F0%9F%94%A5+.NET+%7C+Node.js+%7C+Go+%7C+React+%7C+Angular;%E2%9A%A1+Clean+Architecture+%7C+DDD+%7C+SOLID;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Whodo+%7C+Software+Consultant" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
 
   <!-- PROFILE BADGES -->
   <a href="https://github.com/lucasdcorrea1">
-    <img src="https://komarev.com/ghpvc/?username=lucasdcorrea1&amp;style=for-the-badge&amp;color=8B5CF6&amp;label=PROFILE+VIEWS" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=lucasdcorrea1&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
   </a>
   <a href="https://github.com/lucasdcorrea1?tab=followers">
-    <img src="https://img.shields.io/github/followers/lucasdcorrea1?style=for-the-badge&amp;color=06B6D4&amp;labelColor=0d1117&amp;logo=github" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/lucasdcorrea1?style=for-the-badge&color=06B6D4&labelColor=0d1117&logo=github" alt="Followers"/>
   </a>
-  <a href="https://github.com/lucasdcorrea1?tab=repositories&amp;sort=stargazers">
-    <img src="https://img.shields.io/github/stars/lucasdcorrea1?style=for-the-badge&amp;color=8B5CF6&amp;labelColor=0d1117&amp;logo=github" alt="Stars"/>
+  <a href="https://github.com/lucasdcorrea1?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/lucasdcorrea1?style=for-the-badge&color=8B5CF6&labelColor=0d1117&logo=github" alt="Stars"/>
   </a>
 
   <br/><br/>
 
   <!-- SOCIAL LINKS -->
   <a href="https://www.whodo.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/whodo.com.br-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Whodo"/>
+    <img src="https://img.shields.io/badge/whodo.com.br-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Whodo"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-damas-corr%C3%AAa-882806176/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:lucas.dcorrea1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/lucasdcorreabr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
 </div>
@@ -55,38 +55,106 @@
 <!--                             SOBRE MIM                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"/> Sobre mim
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> Sobre mim
 
 ```yaml
 name:       Lucas Damas Corrêa
-role:       Back-end & Full-Stack Engineer
+role:       Back-end Developer & Software Consultant
 company:    Founder @ Whodo — Soluções Digitais
 location:   Brasil
 focus:      [ "APIs escaláveis", "Microsserviços", "Clean Architecture", "DDD" ]
-learning:   [ "Event-Driven Architecture", "Kubernetes at scale" ]
+learning:   [ "Event-Driven Architecture", "Kubernetes at scale", "Cloud Native" ]
 motto:      "Código limpo hoje é velocidade de entrega amanhã."
 ```
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                               WHODO                                    -->
+<!--                        ATUAÇÃO PROFISSIONAL                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 💼 Atuação Profissional
 
 <div align="center">
 
-### Whodo — Meu projeto atual
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/Founder-8B5CF6?style=for-the-badge&labelColor=0d1117" alt="Founder"/>
+      <br/><br/>
+      <a href="https://www.whodo.com.br" target="_blank">
+        <img src="https://img.shields.io/badge/Whodo_Digital-Acessar-06B6D4?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="Whodo"/>
+      </a>
+      <br/><br/>
+      <strong>Whodo — Soluções Digitais</strong><br/>
+      Desenvolvimento web, APIs robustas e sistemas escaláveis.<br/>
+      Transformo ideias em soluções digitais sob medida.
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/Consultant-06B6D4?style=for-the-badge&labelColor=0d1117" alt="Consultant"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Nutreco_|_TrowNutrition-Multinacional-8B5CF6?style=for-the-badge&labelColor=0d1117" alt="Nutreco"/>
+      <br/><br/>
+      <strong>Software Consultant</strong><br/>
+      Consultoria e desenvolvimento para multinacional<br/>
+      do setor de nutrição animal via Dreamer Studios.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                     METODOLOGIAS E PRINCÍPIOS                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🎯 Metodologias & Princípios
+
+<div align="center">
 
 <table>
   <tr>
-    <td align="center" width="600">
-      <br/>
-      <a href="https://www.whodo.com.br" target="_blank">
-        <img src="https://img.shields.io/badge/whodo.com.br-Acesse_o_site-8B5CF6?style=for-the-badge&amp;labelColor=0d1117&amp;logo=googlechrome&amp;logoColor=white" alt="Whodo"/>
-      </a>
-      <br/><br/>
-      <strong>Tecnologia sob medida para impulsionar seu negócio.</strong><br/>
-      Desenvolvimento web, APIs robustas, sistemas escaláveis e consultoria tech.<br/>
-      Transformo ideias em soluções digitais personalizadas.
-      <br/><br/>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge" alt="Clean Architecture"/>
+      <br/><sub>Arquitetura desacoplada e testável</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Domain--Driven_Design-0d1117?style=for-the-badge" alt="DDD"/>
+      <br/><sub>Modelagem focada no domínio</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/SOLID_Principles-0d1117?style=for-the-badge" alt="SOLID"/>
+      <br/><sub>Código manutenível e extensível</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/TDD-0d1117?style=for-the-badge" alt="TDD"/>
+      <br/><sub>Testes que guiam o design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge" alt="CI/CD"/>
+      <br/><sub>Integração e entrega contínua</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Agile%2FScrum-0d1117?style=for-the-badge" alt="Agile"/>
+      <br/><sub>Entregas iterativas e colaborativas</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Code_Review-0d1117?style=for-the-badge" alt="Code Review"/>
+      <br/><sub>Qualidade através de revisão</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/12_Factor_App-0d1117?style=for-the-badge" alt="12 Factor"/>
+      <br/><sub>Apps cloud-native</sub>
     </td>
   </tr>
 </table>
@@ -131,13 +199,47 @@ motto:      "Código limpo hoje é velocidade de entrega amanhã."
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### 🔧 Ferramentas & DevOps
+#### ☁️ Cloud & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              IDIOMAS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🌐 Idiomas
+
+<div align="center">
+
+| Idioma | Nível | Proficiência |
+|:------:|:-----:|:------------:|
+| 🇧🇷 **Português** | Nativo | ████████████ 100% |
+| 🇺🇸 **English** | Intermediário | ████████░░░░ 65% |
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB TROPHIES                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=lucasdcorrea1&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -154,26 +256,44 @@ motto:      "Código limpo hoje é velocidade de entrega amanhã."
   <table>
     <tr>
       <td align="center">
-        <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=lucasdcorrea1&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;icon_color=06B6D4&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats"/>
+        <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=lucasdcorrea1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=06B6D4&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       </td>
       <td align="center">
-        <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lucasdcorrea1&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9" alt="Top Langs"/>
+        <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lucasdcorrea1&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Langs"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=lucasdcorrea1&amp;hide_border=true&amp;background=0D1117&amp;ring=A855F7&amp;fire=06B6D4&amp;currStreakLabel=A855F7&amp;sideLabels=c9d1d9&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=555555" alt="Streak"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=lucasdcorrea1&hide_border=true&background=0D1117&ring=A855F7&fire=06B6D4&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasdcorrea1&amp;bg_color=0d1117&amp;color=A855F7&amp;line=06B6D4&amp;point=A855F7&amp;area_color=8B5CF6&amp;area=true&amp;hide_border=true&amp;custom_title=Contribui%C3%A7%C3%B5es" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasdcorrea1&bg_color=0d1117&color=A855F7&line=06B6D4&point=A855F7&area_color=8B5CF6&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           WAKATIME STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--
+## ⏱️ WakaTime Stats
+
+Para ativar esta seção:
+1. Crie uma conta em https://wakatime.com
+2. Instale o plugin no VS Code
+3. Descomente o bloco abaixo e substitua SEU_USERNAME
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=06B6D4&layout=compact" alt="WakaTime Stats"/>
+</div>
+-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
 
@@ -188,24 +308,24 @@ motto:      "Código limpo hoje é velocidade de entrega amanhã."
     <tr>
       <td align="center">
         <a href="https://github.com/lucasdcorrea1/tron-ares">
-          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&amp;repo=tron-ares&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;icon_color=06B6D4" alt="Tron Ares"/>
+          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&repo=tron-ares&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=06B6D4" alt="Tron Ares"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/lucasdcorrea1/tron-legacy-api">
-          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&amp;repo=tron-legacy-api&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;icon_color=06B6D4" alt="Tron Legacy API"/>
+          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&repo=tron-legacy-api&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=06B6D4" alt="Tron Legacy API"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/lucasdcorrea1/tron-legacy-frontend">
-          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&amp;repo=tron-legacy-frontend&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;icon_color=06B6D4" alt="Tron Legacy Frontend"/>
+          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&repo=tron-legacy-frontend&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=06B6D4" alt="Tron Legacy Frontend"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/lucasdcorrea1/nlw-esports">
-          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&amp;repo=nlw-esports&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;icon_color=06B6D4" alt="NLW eSports"/>
+          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&repo=nlw-esports&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=06B6D4" alt="NLW eSports"/>
         </a>
       </td>
     </tr>
@@ -229,6 +349,32 @@ motto:      "Código limpo hoje é velocidade de entrega amanhã."
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         CONNECT WITH ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🤝 Vamos conversar?
+
+<div align="center">
+
+Estou sempre aberto a novos projetos, consultorias e parcerias.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/lucas-damas-corr%C3%AAa-882806176/" target="_blank">
+  <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:lucas.dcorrea1@gmail.com">
+  <img src="https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.whodo.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/Solicitar_Orçamento-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Whodo"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                              FOOTER                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -238,4 +384,4 @@ motto:      "Código limpo hoje é velocidade de entrega amanhã."
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,100:06B6D4&amp;height=120&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=120&section=footer"/>
