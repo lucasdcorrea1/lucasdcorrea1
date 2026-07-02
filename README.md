@@ -2,7 +2,7 @@
 <!--                    LUCAS DAMAS CORRÊA — PROFILE README                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Lucas%20Damas%20Corrêa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Back-end%20Developer%20|%20Software%20Consultant&descSize=16&descColor=ffffff&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Lucas%20Damas%20Corrêa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%40%20CI%EF%BC%86T%20%7C%20Founder%20%40%20Whodo&descSize=16&descColor=ffffff&descAlignY=55"/>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=70&lines=%F0%9F%94%A5+.NET+%7C+Node.js+%7C+Go+%7C+React+%7C+Angular;%E2%9A%A1+Clean+Architecture+%7C+DDD+%7C+SOLID;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Whodo+%7C+Software+Consultant" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=70&lines=%F0%9F%94%A5+.NET+%7C+Angular+%7C+Node.js+%7C+Go+%7C+React;%E2%9A%A1+Clean+Architecture+%7C+DDD+%7C+SOLID;%F0%9F%92%BC+Fullstack+Developer+%40+CI%EF%BC%86T;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Whodo" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
@@ -59,8 +59,9 @@
 
 ```yaml
 name:       Lucas Damas Corrêa
-role:       Back-end Developer & Software Consultant
-company:    Founder @ Whodo — Soluções Digitais
+role:       Desenvolvedor Fullstack Pleno @ CI&T
+stack:      [ ".NET", "C#", "Angular" ]
+side:       Founder @ Whodo — Soluções Digitais
 location:   Brasil
 focus:      [ "APIs escaláveis", "Microsserviços", "Clean Architecture", "DDD" ]
 learning:   [ "Event-Driven Architecture", "Kubernetes at scale", "Cloud Native" ]
@@ -81,6 +82,19 @@ motto:      "Código limpo hoje é velocidade de entrega amanhã."
   <tr>
     <td align="center" width="50%">
       <br/>
+      <img src="https://img.shields.io/badge/Fullstack_Developer-06B6D4?style=for-the-badge&labelColor=0d1117" alt="Fullstack Developer"/>
+      <br/><br/>
+      <a href="https://ciandt.com" target="_blank">
+        <img src="https://img.shields.io/badge/CI%26T-Acessar-8B5CF6?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="CI&T"/>
+      </a>
+      <br/><br/>
+      <strong>CI&T</strong><br/>
+      Desenvolvedor Fullstack Pleno com .NET (C#) no back-end<br/>
+      e Angular no front-end, em projetos de escala global.
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <br/>
       <img src="https://img.shields.io/badge/Founder-8B5CF6?style=for-the-badge&labelColor=0d1117" alt="Founder"/>
       <br/><br/>
       <a href="https://www.whodo.com.br" target="_blank">
@@ -90,17 +104,6 @@ motto:      "Código limpo hoje é velocidade de entrega amanhã."
       <strong>Whodo — Soluções Digitais</strong><br/>
       Desenvolvimento web, APIs robustas e sistemas escaláveis.<br/>
       Transformo ideias em soluções digitais sob medida.
-      <br/><br/>
-    </td>
-    <td align="center" width="50%">
-      <br/>
-      <img src="https://img.shields.io/badge/Consultant-06B6D4?style=for-the-badge&labelColor=0d1117" alt="Consultant"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Nutreco_|_TrowNutrition-Multinacional-8B5CF6?style=for-the-badge&labelColor=0d1117" alt="Nutreco"/>
-      <br/><br/>
-      <strong>Software Consultant</strong><br/>
-      Consultoria e desenvolvimento para multinacional<br/>
-      do setor de nutrição animal via Dreamer Studios.
       <br/><br/>
     </td>
   </tr>
@@ -185,9 +188,9 @@ motto:      "Código limpo hoje é velocidade de entrega amanhã."
 
 #### 🎨 Front-end
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
