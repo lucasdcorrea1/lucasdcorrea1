@@ -13,7 +13,7 @@
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=70&lines=%F0%9F%94%A5+.NET+%7C+Angular+%7C+Node.js+%7C+Go+%7C+React;%E2%9A%A1+Clean+Architecture+%7C+DDD+%7C+SOLID;%F0%9F%92%BC+Fullstack+Developer+%40+CI%EF%BC%86T;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Whodo" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=70&lines=%F0%9F%94%A5+.NET+%7C+Angular+%7C+Node.js+%7C+Go+%7C+React;%E2%9A%A1+Clean+Architecture+%7C+DDD+%7C+SOLID;%F0%9F%92%BC+Fullstack+Developer+%40+CI%EF%BC%86T;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Whodo;%F0%9F%95%B9%EF%B8%8F+Arcade+do+Zero%3A+fliperama+impresso+em+3D" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
@@ -68,6 +68,74 @@ learning:   [ "Event-Driven Architecture", "Kubernetes at scale", "Cloud Native"
 motto:      "Código limpo hoje é velocidade de entrega amanhã."
 ```
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           ARCADE DO ZERO                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🕹️ Arcade do Zero
+
+<div align="center">
+
+  <a href="https://lucasdcorrea1.github.io/arcade-do-zero/" target="_blank">
+    <img src="./assets/arcade/arcade-turntable.gif" width="420" alt="Gabinete Arcade do Zero girando em 3D, com o tema do fliperama na tela"/>
+  </a>
+
+  <h3>Um fliperama de verdade, feito na impressora 3D</h3>
+
+  <p>
+    Gabinete bartop para 2 jogadores impresso numa Ender 3, Raspberry Pi com RetroPie<br/>
+    e um app que instala tudo e manda os jogos pelo Wi-Fi, já com capa.
+  </p>
+
+  <a href="https://lucasdcorrea1.github.io/arcade-do-zero/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_o_projeto-39D353?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site do Arcade do Zero"/>
+  </a>
+  <a href="https://github.com/lucasdcorrea1/arcade-do-zero/releases/latest" target="_blank">
+    <img src="https://img.shields.io/badge/Baixar_o_app-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Baixar o app"/>
+  </a>
+  <a href="https://lucasdcorrea1.github.io/arcade-do-zero/controle.html" target="_blank">
+    <img src="https://img.shields.io/badge/Pe%C3%A7as_para_imprimir-06B6D4?style=for-the-badge&logo=printables&logoColor=white" alt="Peças para imprimir"/>
+  </a>
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/arcade/tema-no-fliperama.jpg" width="100%" alt="Tela do fliperama com o tema Arcade do Zero"/>
+        <br/><sub><b>Tema próprio</b>: arte original por videogame e uma vitrine com os jogos de cada um</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/arcade/app-meu-fliperama.jpg" width="100%" alt="App mostrando o fliperama conectado"/>
+        <br/><sub><b>App que faz tudo</b>: grava o RetroPie no cartão, acha o fliperama no Wi-Fi e manda os jogos</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+- 🖨️ **~230 peças** cortadas para caber numa Ender 3, com pinos de encaixe e um controle de impressão peça por peça
+- 🎮 **App desktop** em Electron: instala o RetroPie, baixa jogos com capa, mostra a biblioteca e troca o visual do fliperama
+- 🎨 **Tema do EmulationStation** gerado por script, com roda de videogames, fontes modernas e vitrine montada a partir dos jogos reais
+- 🧊 **Modelo 3D** montado no Blender por código, que vira o 3D interativo do site e esta animação
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
+
+<sub>Gabinete baseado no projeto de <a href="https://makerworld.com/en/models/1517006">LeapTechOnline</a> no MakerWorld.</sub>
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -308,6 +376,18 @@ Para ativar esta seção:
 
 <div align="center">
   <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/lucasdcorrea1/arcade-do-zero">
+          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&repo=arcade-do-zero&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=06B6D4" alt="Arcade do Zero"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/lucasdcorrea1/arcade-games-setup">
+          <img height="130" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=lucasdcorrea1&repo=arcade-games-setup&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=06B6D4" alt="Arcade Games Setup"/>
+        </a>
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/lucasdcorrea1/tron-ares">
